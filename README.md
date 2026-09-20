@@ -1,6 +1,7 @@
 
 # Smart Hospital AI 🏥🤖
-
+**Live App:** https://mq5jvukyqnwj3dxcqlhsnw.streamlit.app
+**By Kalpana Singhmar - IBM Project**
 An AI-powered hospital management system built while learning Python.
 
 ## 📅 My Journey
